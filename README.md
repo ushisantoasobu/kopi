@@ -4,4 +4,5 @@ kopiのLP用レポジトリ
 
 ## ref
 
-- https://techacademy.jp/magazine/6445 => 簡単な紹介ページ
+- https://terhacademy.jp/magazine/6445 => 簡単な紹介ページ
+- https://github.com/pages-themes/minimal => わからないのでこれをテンプレにしてみる
