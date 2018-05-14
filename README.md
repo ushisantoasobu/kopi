@@ -6,3 +6,7 @@ kopiのLP用レポジトリ
 
 - https://terhacademy.jp/magazine/6445 => 簡単な紹介ページ
 - https://github.com/pages-themes/minimal => わからないのでこれをテンプレにしてみる
+
+## memo
+
+- publicにしないとテーマ選べなかった（よくわからない）
